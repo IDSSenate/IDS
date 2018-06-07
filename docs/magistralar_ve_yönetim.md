@@ -1,9 +1,9 @@
-#İDS'nin Yönetimi
+# İDS'nin Yönetimi
 
 İDS'nin yönetimi belli başlı temel kurallar ve yönetici sıfatına sahip olan kimseler tarafından sağlanır, bu belgeninin amacı bu kuralları
 ve kimseleri açıklamaktır.
 
-##Magistralar
+## Magistralar
 Magistralar, IDS'nin yönetiminden sorumlu kimselerdir, MUN'deki yönetim kurulu ve başkanların görevlerini karşılarlar. Magistralar
 Roma Cumhuriyeti temel alınarak oluşturulmuş makamlardır. Bu makamlar değişik seviyede güçlere sahip olsalar da, genel olarak iki grup
 altında incelenirler: Komisyon ve Senato. Komisyonlarda görev alan magistralar: *Konsüller*, *Preatorlar*, *Tribünler* ve *Liktörlerdir*. Senato'da görevli
@@ -13,7 +13,7 @@ Magistra | Görevi
 ---------|--------
 Konsül| Komisyonda kürsüden sorumludur, sözü devreder.
 Preator | Konsüle yardımcı olur, düzeni sağlar.
-Tribün | Oylamayı sayar ve sonucunu söyler. Eşitlikte oyu belirler.
+Tribün | Oylamayı sayar ve sonucunu söyler. Eşitlikte oyu belirler. Kanunları yazar
 Liktör | Delegelerin ihtiyaçlarına yardım eder.
 Pro-Konsül | İdari kararları alır.
 Questor | Ekonomik konular hakkında senatoya rapor verir
@@ -22,7 +22,7 @@ Aedile | O yıl komisyondan seçilen en iyi delege.
 
 Aedileların sonraki yıllarda Magistra olarak görev alması beklenir, bu görev alma *Cursus Honorum* denilen bir sisteme göre olur.
 
-###Cursus Honorum
+### Cursus Honorum
 Cursus Honorum, bir delegenin İDS içerisinde nasıl yükseleceğini belirleyen sistemdir, bu yükselme genelde şöyle olur, Aedile seçilen
 bir delege sırasıyla:
 * Liktör/Tribün
@@ -30,7 +30,7 @@ bir delege sırasıyla:
 
 görevlerini yapar, bu görevlerden sonra eğer uygunsa, Senato makamlarına seçilebilir.
 
-##Kurallar
+## Kurallar
 İDS'nin temel kuralları, eşitlik ve özgür düşünce kavramları çevresinde gelişir ve şunlardır:
 
 1. Din ve yerel siyaset gibi konularda tartışma olmayacaktır.
