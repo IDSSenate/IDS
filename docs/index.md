@@ -1,4 +1,4 @@
-#İdeal Diplomasi Simülasyonu
+# İdeal Diplomasi Simülasyonu
 
 İDS, Model Birleşmiş Milletlerin eksikleri göz önüne alınarak kaleme alınmış bir simülasyondur. İDS'nin amacı,
 bireylerin özgür düşünüp tartışabilecekleri bir ortamda bir araya gelerek, dünyayı daha iyi bir yer yapma amacıyla

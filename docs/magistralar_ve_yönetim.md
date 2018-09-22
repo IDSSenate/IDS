@@ -37,7 +37,6 @@ görevlerini yapar, bu görevlerden sonra eğer uygunsa, Senato makamlarına se�
 2. Katılımcıların resmi kıyafet giymesi zorunludur.
 3. Delegeler konuşurken, birinci çoğul şahıs (biz) üçüncü tekil şahıs kiplerini kullanmalıdır. *"ABD delegasyonu bu öneriye katılmıyor"* gibi
 4. Magistra ya da delege olmayan hiç kimse kürsüye çıkıp konuşma yapamaz.
-5. Konferans sonunda en beğenilen öneriler Tribune Plebis tarafından okunur.
 
 [Önceki Sayfa](index.md) |
 [Sonraki Sayfa](ulke_yaratimi.md)

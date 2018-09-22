@@ -1,41 +1,59 @@
-#Administiration of IDS
+# Administration of the IDS
 
-Administiration of IDS is done via certain laws and people with certain titles. This document aims to explain those rules and titles.
+Certain officials administrate and manage the IDS by following certain rules,
+this document's purpose is to explain these "Positions of Power" and rules.
 
-##Magistras
-Magistras are people who vields administrative powers, much like chairs in MUN. Magistras are created from titles used in ancient Roman Republic.
-Although having much different powers and responsibilites, they fall in either one of the two categoris: Commisions and Senate.
-Magistras that are responsible from commisons are: *Consuls*, *Preators*, *Tribunes* ve *Lictors*. Magistras responsible from Senate are:
-*Pro-Consuls*, *Quaestors* ve *Tribune Plebis'*. There also exists *Aediles*, best delegates.
+## Magistrae
 
-Magistra | Duties
----------|--------
-Consul| Responsible from seat, recognizes delegates.
-Preator | Aids the counsul in his duties. Responsible from order in the commison
-Tribune | Responsible for votes, counts the votes, calls the vote if equal
-Lictor | Aids the delegates
-Pro-Consul | Attends the matters of burocracy and event-wide problems
-Questor | Reports to senate in matters of economy
-Tribune Plebis | Makes sure no two laws passed from different commisions contradict each other
-Aedile | Best delegate from a certain commison.
+A Magistra, is a person responsible for the management of an IDS Council. They
+are roughly equivalent to the chairs in MUN; their duties and titles are based
+on the Roman Republican Officials. Possessing varying degrees of powers and
+responsibilities, there are two "distinct" types of Magistrae, the Senetorial
+and the Commisional.
 
-It is expected from Aediles to take part in future events as magistras according to a system called *Cursus Honorum*.
+Commissional Magistrae manage a commission. A commision consists of a Consul,
+a Preator, a Tribune and a Lictor.
 
-###Cursus Honorum
-Cursus Honorum dictates how an Aedile rises in administrative power. An aedile must prove his/her ability to handle responsibility by holding certain positions in order:
-* Lictor/Tribune
-* Preator/Consul
+Senetorial Magistrae, manage the entire Council, an entire IDS event. the Senate
+may consist of numerous, Pro-Consuls, Questors and a Tribune Plebis.
 
-Only after proving himself/herself, one can hold positions in Senate.
+Other than these Magistrae, there also are Aediles.
 
-##Rules
-Fundemental rules of the IDS is based arround concepts of equality and free thinking, and are:
+Magistra | Responsibility and Power
+---------|-------------------------
+Consul | Decides who holds the floor, and who can speak.
+Preator | Helps the Consul by maintaining order, and by making sure the commision doesn't break into Anarchy. In some cases, Preatorship can be combined with Consulship.
+Tribune | Counts and manages the voting process, breaks the ties if they happen, and drafts the laws.
+Lictor | Helps the delegates, passing notes, making sure everyone has water, etc.
+Pro-Consul | Takes the administrative decisions.
+Questor | A member of the Senate responsible for finance.
+Tribune Plebis | Makes sure no two laws contradict each other.
+Aedile | Rough equivalent to the Best Delegate.
 
-1. No debate on local politics and religion.
-2. Attendents *must* wear formal clothing.
-3. When refeering to themselves in speach, delegates must use first-person plural or third-person singular speech such as "We do not agree" or "US Delegation aproves." This doesn't apply to rhetorical speech, for instance one cannot use "I do not agree" but can use "When your children will grow up." albeit, it is much better if this sentence is constructed as "When this generation's children grow up." rules regarding to rhetorical speech can change from event to event.
-4. Anyone who is not a magistra or delegate cannot speak in the chair nor could be recognized by a Consul.
-5. Tribune Plebis reads selected laws at the end of the event.
+### Cursus Honorum
 
-[Previous Page](index.md) |
-[Next Page](country_creation.md)
+Cursus Honorum is a system that governs how a delagate can rise to Magistral
+positions.
+
+When a delegate is elected as an Aedile, it is likely the Pro-Conculs will
+keep this in mind when they are looking for Magistrae. An Aedile will generally
+first become a Lictor or a Tribune and than a Preator or a Consul.
+
+However, this shouldn't be taken as a guarantee, just like some Aediles does not
+wish to become a Magistrae. Senate may not wish to appoint them.
+
+If however, they successfully performs Cursus Honorum's duties and become a
+Preator or a Consul, Senate may appoint an ex-Aedile to Senatorial Magistrae.
+
+## Rules
+
+The fundamental rules of IDS are centered around equality and freedom of thought
+and are as follows:
+
+1. Religion and Local Politics will not be topics of discussion.
+2. Delegates and Magistrae must wear formal attire.
+3. When speaking, delegates must use the third person singular pronoun "We", such as *"the Frankish Kingdom does not agree with this statement"*, they must also avoid using the informal you, and refer to their co-delegates with their country name *"the Frankish Kingdom believes the Representative of the United States of Luxembourg is wrong in this matter."*
+4. *Only* the people who hold Magistral or Delegational statue can speak in the conference.
+
+[Previous Page] (index.md) |
+[Next Page] (country_creation.md)
