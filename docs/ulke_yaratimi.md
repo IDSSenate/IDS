@@ -26,7 +26,7 @@ yani ismi Britanya Anarşist Birliği olan bir ülke pekala Totaliteryen olabili
 ## Bulunduğu Bölge
 Bir ülkenin topraklarının ne kadarlık bir bölgede olduğudur. Örnek olarak AFD (Amerikan Federe Cumhuriyeti) ABD topraklarının yanı
 sıra İspanya'ya ait olan Kanarya Adaları'nı yazabilir. Ancak eğer İHC'de (İspanyol Halk Cumhuriyeti) aynı bölgede hak ilan ediyorsa
-o zaman bu bölge *Tartışmalı Bölge* ilan edilir ki bu delegelerin keyfine bağlı olarak diplomatik durumu gerebilir.
+o zaman bu bölge *Tartışmalı Bölge* ilan edilir ki bu yönetimin kararıyla konferanstan önce çözülür.
 
 ## Kabul
 
