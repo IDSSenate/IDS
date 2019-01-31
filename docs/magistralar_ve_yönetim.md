@@ -1,23 +1,20 @@
 # İDS'nin Yönetimi
 
-İDS'nin yönetimi belli başlı temel kurallar ve yönetici sıfatına sahip olan kimseler tarafından sağlanır, bu belgeninin amacı bu kuralları
-ve kimseleri açıklamaktır.
+İDS'nin yönetimi belli başlı temel kurallar ve yönetici sıfatına sahip olan
+kimseler tarafından sağlanır, bu belgeninin amacı bu kuralları ve kimseleri
+açıklamaktır.
 
 ## Magistralar
-Magistralar, IDS'nin yönetiminden sorumlu kimselerdir, MUN'deki yönetim kurulu ve başkanların görevlerini karşılarlar. Magistralar
-Roma Cumhuriyeti temel alınarak oluşturulmuş makamlardır. Bu makamlar değişik seviyede güçlere sahip olsalar da, genel olarak iki grup
-altında incelenirler: Komisyon ve Senato. Komisyonlarda görev alan magistralar: *Konsüller*, *Preatorlar*, *Tribünler* ve *Liktörlerdir*. Senato'da görevli
-magistralar ise: *Pro-Konsüller*, *Quaestorlar* ve *Tribune Plebis* ismini alır. Bu makamlar dışında son olarak *Aedile* denilen kimseler de vardır.
+Magistralar, IDS'nin yönetiminden sorumlu kimselerdir, MUN'deki yönetim kurulu
+ve başkanlarının görevlerini karşılarlar. Magistralar ise Roma Cumhuriyeti temel
+alınarak oluşturulmuş makamlardır. Komisyonlarda görev alan magistralar:
+*Konsüller*, *Tribünler* ve *Liktörlerdir*.
 
 Magistra | Görevi
 ---------|--------
-Konsül| Komisyonda kürsüden sorumludur, sözü devreder.
-Preator | Konsüle yardımcı olur, düzeni sağlar.
-Tribün | Oylamayı sayar ve sonucunu söyler. Eşitlikte oyu belirler. Kanunları yazar
+Konsül| Komisyonda kürsüden sorumludur, sözü devreder. Düzeni sağlar.
+Tribün | Oylamayı sayar ve sonucunu söyler. Kanunları yazar
 Liktör | Delegelerin ihtiyaçlarına yardım eder.
-Pro-Konsül | İdari kararları alır.
-Questor | Ekonomik konular hakkında senatoya rapor verir
-Tribune Plebis | Komisyonlardan çıkan çözümlerin çelişmediğinden emin olur.
 Aedile | O yıl komisyondan seçilen en iyi delege.
 
 Aedileların sonraki yıllarda Magistra olarak görev alması beklenir, bu görev alma *Cursus Honorum* denilen bir sisteme göre olur.
