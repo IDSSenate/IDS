@@ -25,4 +25,4 @@ Her İDS konferansı kendi kıyafet kurallarına sahiptir ancak resmi kıyafet �
 
 An itibariyle İDS belgeleri sadece Türkçe olarak bulunsa da, ilerleyen zamanlarda sırasıyla İngilizce, Almanca, Fransızca ve Norveççe'ye çeviriler yapılması planlanmaktadır.
 
-[Önceki sayfa](konuşma_ve_cozum_yazimi.md) | [Sonraki Sayfa](ic_tutarlilik.md)
+[Önceki sayfa](konuşma_ve_cozum_yazimi.md) | Bilgiler bitti.
