@@ -25,10 +25,9 @@
 ### Bazı ek noktalar
 
 
-* Magistralar Liktör aracılığıyla delegelere mesaj gönderemezler.
 * Delegeler kendilerini soruya açabilirler, bu durumda diğer delegeler plaka kartlarını kaldırarak izin ister.
 * Soru sorduktan sonra yapılan açıklamada soruyu soran delegeye *cevap hakkı* doğmadığı sürece soruyu soran delege söze devam edemez.
-* Cevap hakkının doğup doğmadığına preator karar verir.
+* Cevap hakkının doğup doğmadığına konsül karar verir.
 * Hiç bir şekilde delege ya da magistra olmayan bir kimse kürsüye çıkamaz ve konuşamaz.
 
 ## Kanunlar
@@ -42,13 +41,11 @@
 3. Madde önergesi verecek delege kürsüye çıkarak konuşma yapar.
   - Konuşmada açık ve kısa bir şekilde madde önerisi verilmelidir.
 4. Lehte ve aleyhte konuşmalar alınır.
-  - Lehte ve ya aleyhte konuşmalar ciddi bir değişiklik önerisi veriyorsa, Konsül konuşmacıya 'Değişiklik önergesi vermek istiyor musunuz?' diye sorar.
-5. Değişiklik önergesi lehte ve aleyhte konuşmalar alınır.
-6. Önerge oylanır.
-7. Lehte ve aleyhte konuşmalar bittikten sonra madde oylanır.
-8. Oylanan madde Tribün tarafından eklenir.
-9. Maddelerin oylaması tamamlandıktan sonra oluşan kanun oylanır.
-10. Kabul edilen kanun onay için Tribune Plebis'e verilir ve internette yayımlanır.
+5. Lehte ve aleyhte konuşmalar bittikten sonra madde oylanır.
+6. Oylanan madde Tribün tarafından eklenir.
+7. Maddelerin oylaması tamamlandıktan sonra oluşan kanun oylanır.
+8. Kabul edilen kanun onay için yönetim kuruluna verilir ve internette yayımlanır.
+9. Kanun geçemezse değişiklik önergeleri alınabilir.
 
 ### Kanunların yazımı
 
