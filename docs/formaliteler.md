@@ -1,6 +1,6 @@
 # Formaliteler ve Kurallar
 
-İDS'yi oluştururken, MUN'in takılı kaldığı bir çok formaliteyi atarak daha akıcı bir konferans ortamı yaratmayı amaçlamamıza karşın. Karmaşıklıkları önlemek üzere İDS'de bazı ön tanımlı kurallarla gelir. İDS formatını uygulayan etkinlikler bunlara kendi kurallarını da ekleyebilirler. Ancak eğer etkinliğinizin akıcılığına önem veriyorsanız, bunu tavsiye etmiyoruz.
+İDS'nin işlenişini kolaylaştırmak için ortaya atılmış bazı formaliteler vardır.
 
 ## Ülke Oluşturma Üzerine
 
