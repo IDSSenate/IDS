@@ -10,22 +10,12 @@ ve başkanlarının görevlerini karşılarlar. Magistralar ise Roma Cumhuriyeti
 alınarak oluşturulmuş makamlardır. Komisyonlarda görev alan magistralar:
 *Konsüller*, *Tribünler* ve *Liktörlerdir*.
 
-Magistra | Görevi
+Magistra | Görevleri
 ---------|--------
 Konsül| Komisyonda kürsüden sorumludur, sözü devreder. Düzeni sağlar.
 Tribün | Oylamayı sayar ve sonucunu söyler. Kanunları yazar
 Liktör | Delegelerin ihtiyaçlarına yardım eder.
 Aedile | O yıl komisyondan seçilen en iyi delege.
-
-Aedileların sonraki yıllarda Magistra olarak görev alması beklenir, bu görev alma *Cursus Honorum* denilen bir sisteme göre olur.
-
-### Cursus Honorum
-Cursus Honorum, bir delegenin İDS içerisinde nasıl yükseleceğini belirleyen sistemdir, bu yükselme genelde şöyle olur, Aedile seçilen
-bir delege sırasıyla:
-* Liktör/Tribün
-* Preator/Konsül
-
-görevlerini yapar, bu görevlerden sonra eğer uygunsa, Senato makamlarına seçilebilir.
 
 ## Kurallar
 İDS'nin temel kuralları, eşitlik ve özgür düşünce kavramları çevresinde gelişir ve şunlardır:
