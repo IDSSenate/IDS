@@ -5,17 +5,14 @@
 
 İDS konferanslarında konuşmalar şöyle işler:
 
-1. Kürsüye çıkan delege konsülden söz alır.
+1. Kürsüye çıkacak delege konsülden söz alır.
 2. Teklifi yapacak delege kürsüye çıkar.
 3. Delege konuşmasını yapar, teklif sunulur.
-4. Konsül, teklif hakkında iki lehte ve üç aleyhte konuşma alır.
-5. Bu konuşmalar sırasında değişiklik önerileri lehte ve aleyhte konuşmalarla verilebilir
-6. Değişiklik önerileri için bir aleyhte konuşma alınır ve Tribün oylama yapar.
-7. Preatorlar kabul edilen önerilerin değerlendirmesini yaparlar. Eğer değişikliği ciddi bulurlarsa üç lehte ve üç aleyhte konuşma baştan alınabilir
-8. Konsülün konuşmaların bittiğini duyurur
-9. Oylama başlamadan önce liktör odada bulunan herkesi dışarı çıkartıp kapıda bekler, oylamanın bölünmesini engeller.
-10. Tribün oylamayı yönetir ve sayar.
-11. Tribün oylamayı bitirir sonucu duyurur.
+4. Konsül, teklif hakkında ayriten iki lehte ve üç aleyhte konuşma alır.
+5. Konsül konuşmaların bittiğini duyurur
+6. Oylama başlamadan önce liktör odada bulunan herkesi dışarı çıkartıp kapıda bekler, oylamanın bölünmesini engeller.
+7. Tribün oylamayı yönetir ve sayar.
+8. Tribün oylamayı bitirir sonucu duyurur.
 
 ` Konuşmalarda, ana konuşmalarda minimum üç dakika, değişiklik önerilerinde minimum bir dakika konuşma sınırı konabilir. `
 
