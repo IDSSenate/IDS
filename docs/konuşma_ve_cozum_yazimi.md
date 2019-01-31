@@ -10,9 +10,13 @@
 3. Delege konuşmasını yapar, teklif sunulur.
 4. Konsül, teklif hakkında ayriten iki lehte ve üç aleyhte konuşma alır.
 5. Konsül konuşmaların bittiğini duyurur
-6. Oylama başlamadan önce liktör odada bulunan herkesi dışarı çıkartıp kapıda bekler, oylamanın bölünmesini engeller.
+6. Oylama başlamadan önce liktör odada bulunan delegeler ve magistræ dışında herkesi dışarı çıkartıp kapıda bekler, oylamanın bölünmesini engeller.
 7. Tribün oylamayı yönetir ve sayar.
 8. Tribün oylamayı bitirir sonucu duyurur.
+9. Eğer yasa geçerse, Tribün tarafından yazılır. Eğer geçmezse,
+  1. Değişiklik önergesi verilebilir.
+  2. Verilen değişlik önergeleri için bir lehte ve iki alehyt konuşma alınır
+  3. Değişiklik önergeleri oylanırlar.
 
 ` Konuşmalarda, ana konuşmalarda minimum üç dakika, değişiklik önerilerinde minimum bir dakika konuşma sınırı konabilir. `
 
